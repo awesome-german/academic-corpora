@@ -64,7 +64,7 @@
 
 - [spaCy German Models](https://spacy.io/models/de) - Industrietaugliche Natural Language Processing Modelle.
 - [SoMaJo](https://github.com/tsproisl/SoMaJo) - Tokenisierer und Satzspalter für deutsche Texte.
-- [Germalemma](https://github.com/WZBSocialScienceCenter/germalemma) - Lemmatisierung für deutsche Sprachentexte.
+- [Germalemma](https://github.com/WZBSocialScienceCenter/germalemma) - Lemmatisierung für deutsche Sprachtexte.
 - [German NLP](https://github.com/adbar/German-NLP) - Kuratierte Liste von Open-Access/Open-Source NLP-Ressourcen für Deutsch.
 
 ## Akademische Texte
