@@ -33,7 +33,7 @@
 
 ### Spezialisierte Korpora
 
-- [TüBa-D/Z](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/deutsches-seminar/abteilungen/computerlinguistik/ressourcen/corpora/tueba-dz/) - Tübinger Baumbank des geschriebenen Deutsch.
+- [TüBa-D/Z](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/deutsches-seminar/abteilungen/computerlinguistik/ressourcen/corpora/tueba-dz/) - Tübinger Treebank des geschriebenen Deutsch.
 - [C-WEP](https://www.cl.uzh.ch/de/texttechnologie/research/cwb/cwep.html) - Korpus geschriebener professioneller deutscher Texte.
 - [SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac/) - Webkorpus der deutschen .de Domain.
 - [DIRNDL Corpus](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl/) - Discourse Information Radio News Database for Linguistics.
@@ -41,7 +41,7 @@
 ### Historische Korpora
 
 - [DTA](https://www.deutschestextarchiv.de/) - Deutsches Textarchiv.
-- [GerManC-GS](https://www.llc.manchester.ac.uk/research/projects/germanc/) - Genre-balanciertes Korpus des frühneuhochdeutschen.
+- [GerManC-GS](https://www.llc.manchester.ac.uk/research/projects/germanc/) - Genre-balanciertes Korpus des Frühneuhochdeutschen.
 - [Referenzkorpus Altdeutsch](https://www.deutschdiachrondigital.de/) - Referenzkorpus des Althochdeutschen und Altsächsischen.
 - [Referenzkorpus Mittelhochdeutsch](https://www.linguistics.ruhr-uni-bochum.de/rem/) - Referenzkorpus Mittelhochdeutsch.
 
